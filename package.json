@@ -53,7 +53,7 @@
     "node-alias": "^1.0.4",
     "npmview": "0.0.4",
     "prettier": "^1.10.2",
-    "react-dev-utils": "^5.0.0",
+    "react-dev-utils": "^7.0.3",
     "semver": "^5.5.0"
   }
 }
